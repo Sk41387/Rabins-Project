@@ -59,10 +59,6 @@ public class LoginFunctionalityTest extends Main{
 		driver.findElement(By.name("password")).sendKeys("123");
 	}
 	
-	// adding some scripts
-	// changes done according to the advice
-	// code approved --A
-	
 	
 	
 	
