@@ -60,6 +60,7 @@ public class LoginFunctionalityTest extends Main{
 	}
 	
 	// adding some scripts
+	// changes done according to the advice
 	
 	
 	
